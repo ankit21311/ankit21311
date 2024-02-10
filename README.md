@@ -1,3 +1,4 @@
+![logo](https://github.com/ankit21311/ankit2131/blob/main/Software.png)
 <h1 align="center">Hi 👋, I'm Ankit Raj</h1>
 <h3 align="center">A passionate Software Developer & UI|UX Designer from New Delhi.</h3>
 <img align="right" alt="coding"width = "400"src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
